@@ -8,3 +8,4 @@ using namespace sf;
 int main() {
 	Canvas();
 }
+//
